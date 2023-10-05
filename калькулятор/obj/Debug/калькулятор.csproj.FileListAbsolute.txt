@@ -1,0 +1,15 @@
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\bin\Debug\калькулятор.exe.config
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\bin\Debug\калькулятор.exe
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\bin\Debug\калькулятор.pdb
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\obj\Debug\калькулятор.csproj.AssemblyReference.cache
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\obj\Debug\MainWindow.g.cs
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\obj\Debug\App.g.cs
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\obj\Debug\калькулятор_MarkupCompile.cache
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\obj\Debug\калькулятор_MarkupCompile.lref
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\obj\Debug\MainWindow.baml
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\obj\Debug\калькулятор.g.resources
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\obj\Debug\калькулятор.Properties.Resources.resources
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\obj\Debug\калькулятор.csproj.GenerateResource.cache
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\obj\Debug\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\obj\Debug\калькулятор.exe
+C:\Users\328-5\Desktop\Угрюмова\ВиПКС\калькулятор\obj\Debug\калькулятор.pdb
